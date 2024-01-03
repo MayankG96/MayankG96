@@ -27,10 +27,12 @@ How to use Data Analysis, Statistics, Data Visualization, Advanced Machine Learn
 I love to travel and even go on solo trips. I have been to a solo yoga retreat in Rishikesh and went solo river rafting
 
 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mayankg96)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayank.gupta@utexas.edu)
 
 💻 Tech Stack:
+
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> 
