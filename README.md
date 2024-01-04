@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💫 About Me
-Hello! Mayank here - **a data-driven growth specialist**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills.
+
+This is Mayank - **a data-driven growth specialist**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills.
 
 🔭 **I’m currently working on:**
 
