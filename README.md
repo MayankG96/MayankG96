@@ -23,7 +23,7 @@ How to use Data Analysis, Statistics, Data Visualization, Advanced Machine Learn
 
 🔭 **I’m currently working on:**
 
-developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
+Developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
 
 💬 **Ask me about:**
 
