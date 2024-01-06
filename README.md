@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Mayank - **a data-driven professional**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills.
+This is Mayank - **a data-driven professional**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills. I have 4 years of work experience as an analytical consultant at EY and ZS Associates
 
 🔭 **I’m currently working on:**
 
