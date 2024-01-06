@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 This is Mayank - **a data-driven professional**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills. I have 4 years of work experience as an analytical consultant at EY and ZS Associates
 
-🔭 **I’m currently working on:**
-
-developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
-
 🌱 **I’m currently learning:**
 
 How to use Data Analysis, Statistics, Data Visualization, Advanced Machine Learning and Optimization Techniques to generate value for business by pursuing Masters in business Analytics at McCombs School of Business, The University of Texas at Austin.
+
+🔭 **I’m currently working on:**
+
+developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
 
 💬 **Ask me about:**
 
