@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=MayankG96)
 
 <!--
 **MayankG96/MayankG96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
