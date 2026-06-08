@@ -15,23 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Mayank - **a data-driven professional**. I am passionate about driving business growth through data-driven insights by leveraging a mix of data analysis, machine learning, and effective interpersonal skills. I have 4 years of work experience as an analytical consultant at EY and ZS Associates
+This is Mayank - Product Data Scientist at Expedia Group, working at the intersection of product analytics, experimentation, and AI engineering.
 
-🌱 **I’m currently learning:**
+My focus: building reliable analytical systems that move teams from "what happened" to "what should we do next."
 
-How to use Data Analysis, Statistics, Data Visualization, Advanced Machine Learning and Optimization Techniques to generate value for business by pursuing Masters in business Analytics at McCombs School of Business, The University of Texas at Austin.
+## Core Expertise
 
-🔭 **I’m currently working on:**
+- Product measurement and KPI framework design
+- Experiment design and causal inference
+- Agentic AI systems and LLM-powered analytics
+- Scalable data pipelines and insight automation
 
-Developing and applying data strategies, ML models, data-driven solutions, and optimization techniques for real-world business applications.
-
-💬 **Ask me about:**
-
-Data Strategy, Data Analysis, Machine Learning, Business Problem Solving, Ethical AI
-
-⚡ **Fun fact:**
-
-I love to travel and even go on solo trips. I have been to a solo yoga retreat in Rishikesh.
 
 🌐 **Socials:**
 
